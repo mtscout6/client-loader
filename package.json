@@ -1,6 +1,6 @@
 {
   "name": "client-loader",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Webpack loader to allow module to be defined separately for client and server",
   "main": "index.js",
   "scripts": {
