@@ -1,0 +1,23 @@
+{
+  "name": "client-loader",
+  "version": "0.0.0",
+  "description": "Webpack loader to allow module to be defined separately for client and server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mtscout6/client-loader.git"
+  },
+  "keywords": [
+    "webpack",
+    "webpack-loader"
+  ],
+  "author": "Matthew L Smith <mtscout6@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mtscout6/client-loader/issues"
+  },
+  "homepage": "https://github.com/mtscout6/client-loader"
+}
